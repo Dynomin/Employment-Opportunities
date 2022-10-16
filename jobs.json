@@ -930,13 +930,20 @@
  "requirements" : "Degree(Bachelors / Masters),Cybersecurity Certifications",
  "contactEmail" : "rnamana@paloaltonetworks.com"
   },
-    {  
+  {  
   "id" : "121",
  "companyName " : "TryHackMe",
  "position" : "Technical Support Engineer",
  "requirements" : "IT and Cybersecurity releated Degree or Certification",
  "contactEmail" : "jobs@tryhackme.com"
-  }
+},
+{    
+"id": "123",
+    "companyName": "Optimistic Overviews",
+    "position": "Frontend Developer",
+    "requirements": "html,css,javascript",
+    "contactEmail": "optimisticoverviews@gmail.com"
+}
 ] 
 }
 
